@@ -2,3 +2,5 @@ open source
 vuvhdbkcbh
 
 First new feature
+
+Second new feature
