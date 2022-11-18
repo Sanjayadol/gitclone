@@ -5,4 +5,10 @@ First new feature
 
 Second new feature
 
+<<<<<<< HEAD
 Fional commit
+=======
+3 commit 
+
+4 commit
+>>>>>>> feature
