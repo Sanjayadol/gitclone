@@ -14,3 +14,5 @@ Fional commit
 >>>>>>> feature
 
 Final version
+
+solve  conflict
