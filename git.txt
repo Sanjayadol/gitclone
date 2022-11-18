@@ -12,3 +12,5 @@ Fional commit
 
 4 commit
 >>>>>>> feature
+
+Final version
